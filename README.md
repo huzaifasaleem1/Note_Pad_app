@@ -1,2 +1,16 @@
-# Note_Pad_app
-A simple and intuitive Flutter-based notepad application that allows users to create, edit, and save notes. The app features a splash screen, home screen with a list of saved notes, and a note editor with title and content fields. Data is stored locally using SharedPreferences to ensure persistence between sessions.
+# epic_notes
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
